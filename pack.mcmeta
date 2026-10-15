@@ -1,0 +1,9 @@
+{
+  "pack": {
+    "pack_format": 34,
+    "supported_formats": [1, 999],
+    "min_format": 1,
+    "max_format": 999,
+    "description": "Mutes Nether portal ambient hum while keeping teleport sounds."
+  }
+}
